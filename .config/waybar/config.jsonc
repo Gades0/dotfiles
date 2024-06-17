@@ -12,10 +12,10 @@
         "hyprland/window"
     ],
     "modules-right": [
+        "tray",
         "pulseaudio",
         "network",
         "battery",
-        "tray",
         "clock"
     ],
     // Modules configuration
